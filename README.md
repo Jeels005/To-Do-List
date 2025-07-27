@@ -1,3 +1,2 @@
 # To-Do-List
-
-<a herf ="https://jmlists.netlify.app/">View Demo</a>
+<a href="https://jmlists.netlify.app/">view</a>
